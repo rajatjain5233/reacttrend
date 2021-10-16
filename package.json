@@ -1,0 +1,41 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "dataframe-js": "^1.4.4",
+    "expo": "~41.0.1",
+    "expo-av": "~9.1.2",
+    "expo-background-fetch": "~9.1.0",
+    "expo-splash-screen": "~0.10.2",
+    "expo-status-bar": "~1.0.4",
+    "expo-updates": "~0.5.4",
+    "fs": "0.0.1-security",
+    "lodash.filter": "^4.6.0",
+    "pandas-js": "^0.2.4",
+    "path": "^0.12.7",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-background-task": "^0.2.1",
+    "react-native-background-timer": "^2.4.1",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-reanimated": "~2.1.0",
+    "react-native-screens": "~3.0.0",
+    "react-native-unimodules": "~0.13.3",
+    "react-native-web": "~0.13.12",
+    "technicalindicators": "^3.1.0",
+    "websocket": "^1.0.34"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true,
+  "name": "testapp",
+  "version": "1.0.0"
+}
